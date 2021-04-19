@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mad Level 5 Task 2</string>
+    <string name="game_backlog">Game Backlog</string>
+    <string name="add_game">Add Game</string>
+    <string name="title">Title</string>
+    <string name="platform">Platform</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="successfully_deleted_backlog">Successfully deleted backlog</string>
+    <string name="successfully_deleted_game">Successfully deleted game</string>
+    <string name="missing_title">Please fill in a title</string>
+    <string name="missing_platform">Please fill in a platform</string>
+    <string name="missing_day">Please fill in a day</string>
+    <string name="missing_month">Please fill in a month</string>
+    <string name="missing_year">Please fill in a year</string>
+    <string name="invalid_date">Please fill in a valid date</string>
+    <string name="undo">Undo</string>
+</resources>
