@@ -125,7 +125,7 @@ class GameBacklogFragment : Fragment() {
                 games.removeAt(position)
                 gameAdapter.notifyDataSetChanged()
 
-                Snackbar.make(binding.rvGames,R.string.successfully_deleted_game, Snackbar.LENGTH_LONG)
+                Snackbar.make(binding.rvGames, R.string.successfully_deleted_game, Snackbar.LENGTH_LONG)
                         .addCallback(object : Snackbar.Callback() {
                             override fun onDismissed(snackbar: Snackbar, event: Int) {
                                 when (event) {
